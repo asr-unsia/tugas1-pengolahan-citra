@@ -15,7 +15,7 @@
 
 ## Hasil
 
-- ![Hasil Proses](images/result.png)
+- ![Hasil Proses](result.png)
 
 ## Author
 
